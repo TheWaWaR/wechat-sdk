@@ -1,0 +1,12 @@
+[package]
+name = "wechat-sdk"
+version = "0.1.0"
+license = "MIT"
+description = "WeChat SDK"
+authors = ["thewawar <thewawar@gmail.com>"]
+keywords = ["wechat", "sdk", "pay"]
+repository = "https://github.com/TheWaWaR/wechat-sdk"
+
+
+[dependencies]
+reqwest = "0.7.3"
